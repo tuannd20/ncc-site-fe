@@ -6,6 +6,7 @@ export default {
       colors: {
         sideBarBg: "#191718",
         textPrimary: "#FFFFFF",
+        textSecondary: "#000000",
         contentBg: "#EFEFEF",
       },
       fontFamily: {

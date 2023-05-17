@@ -4,7 +4,7 @@ import {navigationItems} from "../config"
 
 function Sidebar() {
   return (
-    <div  className='w-48 h-screen bg-sideBarBg grid-cols-1'>
+    <div  className='w-48 min-h-screen bg-sideBarBg grid-cols-1'>
       {navigationItems.sidebar.map((item) => (
 							<Link
 								key={item.text}
