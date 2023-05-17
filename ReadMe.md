@@ -9,3 +9,8 @@
 npm install
 npm run dev
 ```
+
+## Requirement list
+- [ ] Do not use the 3rd party UI library
+- [X] Use JS framework: ReactJs
+- [ ] The UI has to behave differently for different screen sizes
