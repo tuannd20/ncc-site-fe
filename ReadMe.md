@@ -14,3 +14,6 @@ npm run dev
 - [ ] Do not use the 3rd party UI library
 - [X] Use JS framework: ReactJs
 - [ ] The UI has to behave differently for different screen sizes
+
+## Screenshot
+![CHEESE!](D:\Coding Test\NNC-LAYOUT\ncc-site-fe\src\assets\ScreenshotNCCSite.png)
