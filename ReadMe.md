@@ -16,4 +16,4 @@ npm run dev
 - [ ] The UI has to behave differently for different screen sizes
 
 ## Screenshot
-![CHEESE!](src\assets\ScreenshotNCCSite.png)
+![Screenshot](https://github.com/tuannd20/ncc-site-fe/blob/7a56e22aa8dc764a30a31ac9be49e162b0ce5145/src/assets/ScreenshotNCCSite.png)
