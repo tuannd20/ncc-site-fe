@@ -13,7 +13,7 @@ function Sidebar() {
 									location.pathname.includes(item.to) ? "sidebar_active" : ""
 								}>
                   <div className="h-12 outline outline-2 outline-white cursor-pointer">
-                    <h3 className='font-sans font-medium text-[26px] text-textPrimary text-center'>{item.name}</h3>
+                    <h3 className='font-sans font-medium text-[18px] text-textPrimary text-center'>{item.name}</h3>
                   </div>
 							</Link>
 						))}

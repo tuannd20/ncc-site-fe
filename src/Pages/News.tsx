@@ -4,8 +4,8 @@ import {HeadNcc, Content, Footer} from '../components'
 
 const News: React.FunctionComponent = () => {
   return (
-    <div className="w-screen min-h-screen">
-      <div className='items-center'>
+    <div className="min-h-screen">
+      <div className='w-[1280px]'>
         <HeadNcc />
         <Content />
         <Footer />
