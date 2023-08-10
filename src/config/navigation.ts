@@ -25,6 +25,11 @@ export const navigationItems = {
       to: "/contact",
       text: "Contact",
     },
+    {
+      name: "Profile",
+      to: "/profile",
+      text: "Profile",
+    },
   ],
 };
 
