@@ -2,6 +2,12 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import {navigationItems} from "../config"
 
+navigationItems.sidebar.push({
+  text: "Profile",
+  to: "/profile",
+  name: "Profile"
+});
+
 function Sidebar() {
   return (
     <div  className='w-48 min-h-screen bg-sideBarBg grid-cols-1'>
