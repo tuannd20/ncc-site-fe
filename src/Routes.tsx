@@ -6,6 +6,7 @@ import News from './Pages/News';
 import Service from './Pages/Services';
 import Blog from './Pages/Blog';
 import Contact from './Pages/Contact';
+import UserProfile from './Pages/UserProfile';
 
 const MainRoutes = () => {
   return (
@@ -15,6 +16,7 @@ const MainRoutes = () => {
       <Route path="/news" element={<News />} />
       <Route path="/blog" element={<Blog />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/profile" element={<UserProfile />} />
     </Routes>
   )
 }
